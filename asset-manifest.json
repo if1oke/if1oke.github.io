@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4482bcf5.css",
-    "main.js": "/static/js/main.0933f33d.js",
+    "main.js": "/static/js/main.1c1114ac.js",
     "static/media/leather.png": "/static/media/leather.76f71fb892867ab0d440.png",
     "static/media/entrance.png": "/static/media/entrance.94a1e3aad656aacdc9b1.png",
     "static/media/dungeon-entrance.png": "/static/media/dungeon-entrance.93c13208ae59559227fa.png",
@@ -13,10 +13,10 @@
     "static/media/dungeon_master.png": "/static/media/dungeon_master.7233d4c6e014aabe58e9.png",
     "index.html": "/index.html",
     "main.4482bcf5.css.map": "/static/css/main.4482bcf5.css.map",
-    "main.0933f33d.js.map": "/static/js/main.0933f33d.js.map"
+    "main.1c1114ac.js.map": "/static/js/main.1c1114ac.js.map"
   },
   "entrypoints": [
     "static/css/main.4482bcf5.css",
-    "static/js/main.0933f33d.js"
+    "static/js/main.1c1114ac.js"
   ]
 }
